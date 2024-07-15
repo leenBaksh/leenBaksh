@@ -1,4 +1,3 @@
- ![Banner](https://github.com/user-attachments/assets/b4e50dd6-bdf3-46dd-ac78-9cecd2bcd586)
 
 
 - 👋 Hi, I’m @leenBaksh
