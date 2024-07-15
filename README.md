@@ -1,3 +1,6 @@
+ ![Banner](https://github.com/user-attachments/assets/b4e50dd6-bdf3-46dd-ac78-9cecd2bcd586)
+
+
 - 👋 Hi, I’m @leenBaksh
 - 👀 I’m interested in Presentation Designing, Graphic Designing, and Web Development.
 - 🌱 I’m currently learning Artificial Intelligence (AI).
@@ -9,10 +12,7 @@
 
 
 
-
-
 <!---
 leenBaksh/leenBaksh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-      ![Banner](https://github.com/user-attachments/assets/ae689755-0f95-4a1f-934a-67b7f65059a5)
