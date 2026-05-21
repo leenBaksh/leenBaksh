@@ -1,14 +1,14 @@
 <div align="center">
+  
+# 🚀 Hi, I'm Leen Baksh
 
-<!-- TYPING SVG HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6E5494&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Leen+Baksh;AI-Enabled+Full-Stack+Developer;Building+Agentic+Systems;Next.js+%E2%80%A2+FastAPI+%E2%80%A2+K8s" alt="Typing SVG" />
+### AI-Enabled Full-Stack Developer | Building intelligent, scalable agentic systems with Next.js, FastAPI & Kubernetes
 
-<br/><br/>
+<br/>
 
-<!-- TYPING SVG SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=400&color=FF5722&center=true&vCenter=true&width=500&lines=✨+Building+intelligent%2C+scalable+agentic+systems+✨" alt="Typing SVG" />
+**`Building intelligent, scalable agentic systems & cloud-native apps`**
 
-<br/><br/>
+<br/>
 
 <!-- TECH STACK ICONS -->
 <img src="https://skillicons.dev/icons?i=nextjs,fastapi,kubernetes,docker,ts,py,postgres,redis,graphql,aws&theme=dark&perline=5" />
@@ -33,7 +33,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=300&color=6E5494&center=true&vCenter=true&width=700&lines=🎨+Design+Background+%2B+💻+AI+Development;📚+Certified+Cloud+Applied+GenAI+Engineering;☁️+Cloud-Native+%7C+🤖+Agentic+Systems;🌟+She%2FHer+%7C+✈️+Food+%26+Travel+Lover" />
+🎨 Design Background + 💻 AI Development
+
+📚 Certified Cloud Applied GenAI Engineering @ Governor House Karachi
+
+☁️ Cloud-Native | 🤖 Agentic Systems
+
+🌟 She/Her | ✈️ Food & Travel Lover
 
 </div>
 
